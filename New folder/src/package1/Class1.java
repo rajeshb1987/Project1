@@ -16,5 +16,9 @@ public class Class1 {
 	public static void newFn2(){
 		System.out.println("new function2");
 	}
+	
+	public static void newFn3(){
+		System.out.println("new function3");
+	}
 
 }
