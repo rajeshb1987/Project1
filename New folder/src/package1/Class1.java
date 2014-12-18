@@ -21,7 +21,7 @@ public class Class1 {
 		System.out.println("new function3");
 	}
 
-	public static void newFn4(){
-		System.out.println("new function4");
+	public static void newFn5(){
+		System.out.println("new function5");
 	}
 }
