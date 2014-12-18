@@ -12,5 +12,9 @@ public class Class1 {
 	public static void newFn(){
 		System.out.println("new function");
 	}
+	
+	public static void newFn2(){
+		System.out.println("new function2");
+	}
 
 }
